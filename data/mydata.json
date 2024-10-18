@@ -10,6 +10,21 @@
   "name": "MEWS PAPER MAKING",
   "position": "SECOND",
   "programme": "BADRIYA"
+},
+    {
+  "name": "QIRAATH",
+  "position": "FIRST",
+  "programme": "MUHAMMED ANSHID NT - QUDY"
+},
+    {
+  "name": "QIRAATH",
+  "position": "SECOND",
+  "programme": "MUHAMMED SHAFI F - BADRIYA"
+},
+{
+  "name": "QIRAATH",
+  "position": "THIRD",
+  "programme": "MUHAMMED JAREER A - BADRIYA"
 }
 
 ]
