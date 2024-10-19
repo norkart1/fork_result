@@ -25,7 +25,23 @@
   "name": "QIRAATH",
   "position": "THIRD",
   "programme": "MUHAMMED JAREER A - BADRIYA"
-}
+},
+{
+       "name": "HIFZ",
+       "position": "FIRST",
+       "programme": "MUHAMMED ANSHID NT - QUDSIYA"
+      },
+{
+       "name": "HIFZ",
+       "position": "SECOND",
+       "programme": "MUHAMMED SINAN QUDSIYA"
+      },
+{
+       "name": "HIFZ",
+       "position": "THIRD",
+       "programme": "MUHAMMED SHAFI - BADRIYA"
+      }
+
 
 ]
 }
