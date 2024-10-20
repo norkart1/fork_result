@@ -1,145 +1,559 @@
 {
-    
     "items": [
-      {
-       "name": "MEWS PAPER MAKING",
-       "position": "FIRST",
-       "programme": "QUDSIYA"
-      },
-     {
-  "name": "MEWS PAPER MAKING",
-  "position": "SECOND",
-  "programme": "BADRIYA"
-},
-    {
-  "name": "QIRAATH",
-  "position": "FIRST",
-  "programme": "MUHAMMED ANSHID NT - QUDSIYA"
-},
-    {
-  "name": "QIRAATH",
-  "position": "SECOND",
-  "programme": "MUHAMMED SHAFI F - BADRIYA"
-},
-{
-  "name": "QIRAATH",
-  "position": "THIRD",
-  "programme": "MUHAMMED JAREER A - BADRIYA"
-},
-{
-       "name": "HIFZ",
-       "position": "FIRST",
-       "programme": "MUHAMMED ANSHID NT - QUDSIYA"
-      },
-{
-       "name": "HIFZ",
-       "position": "SECOND",
-       "programme": "MUHAMMED SINAN QUDSIYA"
-      },
-{
-       "name": "HIFZ",
-       "position": "THIRD",
-       "programme": "MUHAMMED SHAFI - BADRIYA"
-      },
-{
-       "name": "ARABI VOCABULARY",
-       "position": "FIRST",
-       "programme": "MUHAMMED ANSHID - QUDSIYA"
-      },
-{
-       "name": "ARABI VOCABULARY",
-       "position": "SECOND",
-       "programme": "MUHAMMED JIBIN ZIYAD - BADRIYA"
-      },
-
-{
-       "name": "ARABI VOCABULARY",
-       "position": "THIRD",
-       "programme": "MUHAMMED JAREER - BADRIYA"
-      },
-
-{
-       "name": "ENGLISH VOCABULARY",
-       "position": "FIRST",
-       "programme": "MUHAMMED ANSHID  - QUDSIYA"
-      },
-
-{
-       "name": "ENGLISH VOCABULARY",
-       "position": "SECOND",
-       "programme": "MUHAMMED RAHIL - BADRIYA"
-      },
-
-{
-       "name": "ENGLISH VOCABULARY",
-       "position": "THIRD",
-       "programme": "MUHAMMED JAREER- BADRIYA"
-      },
-
-{
-       "name": "AZAN",
-       "position": "FIRST",
-       "programme": "MUHAMMED ANSHID - QUDSIYA"
-      },
-
-{
-       "name": "AZAN",
-       "position": "SECOND",
-       "programme": "MUHAMMED SHAFI - BADRIYA"
-      },
-{
-       "name": "AZAN",
-       "position": "THIRD",
-       "programme": "MUHAMMED SHAREEF - QUDSIYA"
-      },
-
-{
-       "name": "POETRY RECITAL",
-       "position": "FIRST",
-       "programme": "MUHAMMED RAHIL KM - BADRIYA"
-      },
-
-{
-       "name": "POETRY RECITAL",
-       "position": "SECOND",
-       "programme": "MUHAMMED JUBAIR  - QUDSIYA"
-      },
-
-
-{
-       "name": "POETRY RECITAL",
-       "position": "THIRD",
-       "programme": "MUHAMMED AMEEN  - QUDSIYA"
-      },
-
-
-{
-       "name": "MALAYALAM SPEECH",
-       "position": "FIRST",
-       "programme": "MUHAMMED SHAFI - BADRIYA"
-      },
-
-{
-       "name": "MALAYALAM SPEECH",
-       "position": "SECOND",
-       "programme": "MUHAMMED ANSHID NT - QUDSIYA"
-      },
-
-
-{
-       "name": "MALAYALAM SPEECH",
-       "position": "SECOND",
-       "programme": "MUHAMMED SHAREEF - QUDSIYA"
-      },
-
-{
-       "name": "MALAYALAM SPEECH",
-       "position": "THIRD",
-       "programme": "MUHAMMED JAREER  - BADRIYA"
-      }
-
-
-
-
-]
+        {
+            "name": "MEMMORY TEST",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "MEMMORY TEST",
+            "position": "SECOND",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "MEMMORY TEST",
+            "position": "THIRD",
+            "programme": "Muhammed Afham - BADRIYA"
+        },
+        {
+            "name": "POSTER DESIGN",
+            "position": "FIRST",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "POSTER DESIGN",
+            "position": "SECOND",
+            "programme": "Muhammed Navas MS - BADRIYA"
+        },
+        {
+            "name": "POSTER DESIGN",
+            "position": "THIRD",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "PENCIL DROWING",
+            "position": "FIRST",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "PENCIL DROWING",
+            "position": "SECOND",
+            "programme": ""
+        },
+        {
+            "name": "PENCIL DROWING",
+            "position": "THIRD",
+            "programme": "Muhammed Sinan - QUDSIYA"
+        },
+        {
+            "name": "IMAGE COMPOSITION",
+            "position": "FIRST",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "IMAGE COMPOSITION",
+            "position": "SECOND",
+            "programme": "Muhammed Shimlal - QUDSIYA"
+        },
+        {
+            "name": "IMAGE COMPOSITION",
+            "position": "THIRD",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "HANDWRITING ENGLISH",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING ENGLISH",
+            "position": "SECOND",
+            "programme": "Muhammed Navas MS - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING ENGLISH",
+            "position": "THIRD",
+            "programme": "Muhammed Jubair - QUDSIYA"
+        },
+        {
+            "name": "HANDWRITING ARABI",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING ARABI",
+            "position": "SECOND",
+            "programme": "Muhammed Navas MS - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING ARABI",
+            "position": "THIRD",
+            "programme": "Muhammed Shimlal - QUDSIYA"
+        },
+        {
+            "name": "HANDWRITING MALAYALAM",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING MALAYALAM",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "HANDWRITING MALAYALAM",
+            "position": "THIRD",
+            "programme": "Muhammed Navas MS - QUDSIYA"
+        },
+        {
+            "name": "TYPING MALAYALAM",
+            "position": "FIRST",
+            "programme": "Muhammed Navas MS - QUDSIYA"
+        },
+        {
+            "name": "TYPING MALAYALAM",
+            "position": "SECOND",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "TYPING MALAYALAM",
+            "position": "THIRD",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "TYPING ENGLISH",
+            "position": "FIRST",
+            "programme": "Muhammed Navas MS - QUDSIYA"
+        },
+        {
+            "name": "TYPING ENGLISH",
+            "position": "SECOND",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "TYPING ENGLISH",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "POETRY WRITING",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "POETRY WRITING",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "POETRY WRITING",
+            "position": "THIRD",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "DICTIONARY ENGLISH",
+            "position": "FIRST",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "DICTIONARY ENGLISH",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "DICTIONARY ENGLISH",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "DICTIONARY ARABIC",
+            "position": "FIRST",
+            "programme": "Muhammed Sinan - QUDSIYA"
+        },
+        {
+            "name": "DICTIONARY ARABIC",
+            "position": "SECOND",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "FOOTNOTE",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "FOOTNOTE",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "FOOTNOTE",
+            "position": "THIRD",
+            "programme": "Muhammed Navas MS - QUDSIYA"
+        },
+        {
+            "name": "TITLE MAKING",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "TITLE MAKING",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "TITLE MAKING",
+            "position": "THIRD",
+            "programme": "Muhammed Navas MS - BADRIYA"
+        },
+        {
+            "name": "PADHAPAYATT ENGLISH",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "PADHAPAYATT ENGLISH",
+            "position": "SECOND",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "PADHAPAYATT ENGLISH",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "PADHAPAYATT ARABIC",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "PADHAPAYATT ARABIC",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "PADHAPAYATT ARABIC",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "ESSAY MALAYALAM",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "ESSAY MALAYALAM",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "ESSAY MALAYALAM",
+            "position": "THIRD",
+            "programme": "Muhammed Navas MS - QUDSIYA"
+        },
+        {
+            "name": "ESSAY ARABIC",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "ESSAY ARABIC",
+            "position": "SECOND",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "ESSAY ARABIC",
+            "position": "THIRD",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "QUIZ",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "QUIZ",
+            "position": "SECOND",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "QUIZ",
+            "position": "THIRD",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "QIRAATH",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "QIRAATH",
+            "position": "SECOND",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "QIRAATH",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "HIFZ",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "HIFZ",
+            "position": "SECOND",
+            "programme": "Muhammed Sinan - QUDSIYA"
+        },
+        {
+            "name": "HIFZ",
+            "position": "THIRD",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "AZAN",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "AZAN",
+            "position": "SECOND",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "AZAN",
+            "position": "THIRD",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "SPEECH MALAYALAM",
+            "position": "FIRST",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "SPEECH MALAYALAM",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "SPEECH MALAYALAM",
+            "position": "THIRD",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "SPEECH MALAYALAM",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "SPEECH ARABIC",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "SPEECH ARABIC",
+            "position": "SECOND",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "SPEECH ARABIC",
+            "position": "THIRD",
+            "programme": "Muhammed Sidan - BADRIYA"
+        },
+        {
+            "name": "SPEECH ENGLISH",
+            "position": "FIRST",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "SPEECH ENGLISH",
+            "position": "SECOND",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "SPEECH ENGLISH",
+            "position": "THIRD",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "ARABIC SONG",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "ARABIC SONG",
+            "position": "SECOND",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "ARABIC SONG",
+            "position": "THIRD",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "ARABIC SONG",
+            "position": "THIRD",
+            "programme": "Muhammed Sinan - QUDSIYA"
+        },
+        {
+            "name": "MALAYALM SONG",
+            "position": "FIRST",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "MALAYALM SONG",
+            "position": "SECOND",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "MALAYALM SONG",
+            "position": "THIRD",
+            "programme": "Muhammed Afham - BADRIYA"
+        },
+        {
+            "name": "URUDU SONG",
+            "position": "FIRST",
+            "programme": "Muhammed Shafi - BADRIYA"
+        },
+        {
+            "name": "URUDU SONG",
+            "position": "SECOND",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "URUDU SONG",
+            "position": "THIRD",
+            "programme": "Muhammed Afham - BADRIYA"
+        },
+        {
+            "name": "MADURAMALAYLAM",
+            "position": "FIRST",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "MADURAMALAYLAM",
+            "position": "SECOND",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "MADURAMALAYLAM",
+            "position": "THIRD",
+            "programme": "Muhammed Irfanul Ashif- QUDSIYA"
+        },
+        {
+            "name": "CLASS PRESENTING",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "CLASS PRESENTING",
+            "position": "SECOND",
+            "programme": "Muhammed Shareef - QUDSIYA"
+        },
+        {
+            "name": "CLASS PRESENTING",
+            "position": "THIRD",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "ANNOUNCEMENT",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "ANNOUNCEMENT",
+            "position": "SECOND",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "ANNOUNCEMENT",
+            "position": "THIRD",
+            "programme": "Muhammed Irfanul Ashif- QUDSIYA"
+        },
+        {
+            "name": "VALH",
+            "position": "FIRST",
+            "programme": "Muhammed Jibin Ziyad - BADRIYA"
+        },
+        {
+            "name": "VALH",
+            "position": "SECOND",
+            "programme": "Muhammed Anshid NT - QUDSIYA"
+        },
+        {
+            "name": "VALH",
+            "position": "THIRD",
+            "programme": "Muhammed Jareer A - BADRIYA"
+        },
+        {
+            "name": "KAVITHALAAPANAM",
+            "position": "FIRST",
+            "programme": "Muhammed Rahil KM - BADRIYA"
+        },
+        {
+            "name": "KAVITHALAAPANAM",
+            "position": "SECOND",
+            "programme": "Muhammed Jubair - QUDSIYA"
+        },
+        {
+            "name": "KAVITHALAAPANAM",
+            "position": "THIRD",
+            "programme": "Muhammed Ameen - QUDSIYA"
+        },
+        {
+            "name": "MALAPATTU",
+            "position": "FIRST",
+            "programme": "QUDSIYA"
+        },
+        {
+            "name": "MALAPATTU",
+            "position": "SECOND",
+            "programme": "BADRIYA"
+        },
+        {
+            "name": "GROUP SONG",
+            "position": "FIRST",
+            "programme": "QUDSIYA"
+        },
+        {
+            "name": "GROUP SONG",
+            "position": "SECOND",
+            "programme": "BADRIYA"
+        },
+        {
+            "name": "BURUDA",
+            "position": "FIRST",
+            "programme": "QUDSIYA"
+        },
+        {
+            "name": "BURUDA",
+            "position": "SECOND",
+            "programme": "BADRIYA"
+        },
+        {
+            "name": "KATHAPRESANGAM",
+            "position": "FIRST",
+            "programme": "Navas, Shafi, Afham - BADRIYA"
+        },
+        {
+            "name": "NEWSPAPPER MAKING",
+            "position": "FIRST",
+            "programme": "BADRIYA"
+        },
+        {
+            "name": "NEWSPAPPER MAKING",
+            "position": "SECOND",
+            "programme": "QUDSIYA"
+        },
+        {
+            "name": "EXPINIMATION",
+            "position": "FIRST",
+            "programme": "BADRIYA"
+        },
+        {
+            "name": "EXPINIMATION",
+            "position": "SECOND",
+            "programme": "QUDSIYA"
+        }
+    ]
 }
